@@ -27,7 +27,7 @@ This will bring some of the insights I get after to analyze my data and back to 
 WordCloud
 Matplotlib
 Seaborn
-Tableau
+Tableau -- https://public.tableau.com/app/profile/amanda.da.silva.pinto/viz/Wine-Project/
 
 # Credits
 Data Sets
